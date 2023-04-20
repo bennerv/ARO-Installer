@@ -298,6 +298,8 @@ github.com/beevik/ntp v0.2.0/go.mod h1:hIHWr+l3+/clUnF44zdK+CWW7fO8dR5cIylAQ76NR
 github.com/benbjohnson/clock v1.0.3/go.mod h1:bGMdMPoPVvcYyt1gHDf4J2KE153Yf9BuiUKYMaxlTDM=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/benbjohnson/immutable v0.2.1/go.mod h1:uc6OHo6PN2++n98KHLxW8ef4W42ylHiQSENghE1ezxI=
+github.com/bennerv/installer v0.9.0-master.0.20230420165117-cff701b3b863 h1:F2ySGj07LnGquIY03Kl/xCcBrf5YMW/mwa2UzMHKRFQ=
+github.com/bennerv/installer v0.9.0-master.0.20230420165117-cff701b3b863/go.mod h1:wb4u+CItVA788fLUOmYGAAinxb11dLFaYENYyLeo1pI=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+CedLV8=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
@@ -1182,8 +1184,6 @@ github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJS
 github.com/jessevdk/go-flags v1.5.0/go.mod h1:Fw0T6WPc1dYxT4mKEZRfG5kJhaTDP9pj1c2EWnYs/m4=
 github.com/jewzaam/go-cosmosdb v0.0.0-20220315232836-282b67c5b234 h1:R0Hokq55Hv3SpbXyfZRh8vIrKFAPZ+SQqyTsRc7J/4E=
 github.com/jewzaam/go-cosmosdb v0.0.0-20220315232836-282b67c5b234/go.mod h1:kZxm8EB19+pd3nT92t0aQblXb7K4sHG8cp59cleqdNc=
-github.com/jewzaam/installer-aro v0.9.0-master.0.20221108164629-2867b943e1d9 h1:9x/8uzzxOvSwh72kLPlLCMEKn+NhQ9WPXXzCZRQI4qY=
-github.com/jewzaam/installer-aro v0.9.0-master.0.20221108164629-2867b943e1d9/go.mod h1:wb4u+CItVA788fLUOmYGAAinxb11dLFaYENYyLeo1pI=
 github.com/jgautheron/goconst v1.5.1 h1:HxVbL1MhydKs8R8n/HE5NPvzfaYmQJA3o879lE4+WcM=
 github.com/jgautheron/goconst v1.5.1/go.mod h1:aAosetZ5zaeC/2EfMeRswtxUFBpe2Hr7HzkgX4fanO4=
 github.com/jhump/protoreflect v1.6.0/go.mod h1:eaTn3RZAmMBcV0fifFvlm6VHNz3wSkYyXYWUh7ymB74=

@@ -83,7 +83,6 @@ type bootkubeTemplateData struct {
 	RootCaCert                    string
 	WorkerIgnConfig               string
 	IsOKD                         bool
-	AROWorkerRegistries           string
 	AROIngressIP                  string
 	AROIngressInternal            bool
 	AROImageRegistryHTTPSecret    string
